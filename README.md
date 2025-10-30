@@ -17,3 +17,4 @@ Analyze Bahrain’s import patterns for cocoa and cocoa preparations (2020–202
 
 ### 🗺️ Dashboard
 Includes visuals for Import Value (BD), Import Quantity, Yearly Trends, and Geographic Sources.
+<img width="1366" height="768" alt="Screenshot (4) (1)" src="https://github.com/user-attachments/assets/d7af24b9-f12c-4342-b512-526af2bd9d87" />
